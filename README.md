@@ -2,7 +2,7 @@
 
 Atividade da disciplina de Análise e Projeto de Sistemas Orientado a Objetos (UFERSA — Pau dos Ferros).
 
-**Aluno:** [Francisco Daniel Costa de Souza]
+**Aluno:** Francisco Daniel Costa de Souza
 **Professor:** José Ferdinandy Silva Chagas
 
 ## Descrição
